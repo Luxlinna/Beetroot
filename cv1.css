@@ -1,0 +1,13 @@
+/* <framset cols="25%, 75%">
+    <frame scr="frame_a.html">
+    <frame scr="frame_b.html">
+    <noframes>Sorry, your browser doesn't handle frames!</noframes>
+</framset> */
+
+.column1 {
+    float: left;
+    width: 9cm;
+  }
+.column2 {
+    width: 12cm;
+  }
